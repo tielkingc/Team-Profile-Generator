@@ -10,9 +10,7 @@ header {
 }
 
 .card {
-    margin: 0 15px;
-    margin-top: 40px;
-    width: 19rem;
+    margin: 5px 15px;
 }
 
 .card-header {
